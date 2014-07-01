@@ -8,7 +8,7 @@
   "repository": {
     "type": "git",
     "url": "ssh+git@github.com:omardelarosa/tonka-npm.git"
-  }
+  },
   "license": "MIT",
   "keywords": [
     "html",
