@@ -1,3 +1,3 @@
 module.exports = function() {
-  console.log("tonka")
+  console.log("tonka. coming soon.")
 }
