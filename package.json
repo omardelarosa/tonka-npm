@@ -19,5 +19,5 @@
   "main": "index.js",
   "bin": {
     "tonka": "./bin/tonka"
-  },
+  }
 }
