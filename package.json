@@ -5,11 +5,19 @@
   "author": {
     "name": "Omar Delarosa <thedelarosa@gmail.com>"
   },
+  "repository": {
+    "type": "git",
+    "url": "ssh+git@github.com:omardelarosa/tonka-npm.git"
+  }
   "license": "MIT",
   "keywords": [
     "html",
     "css",
     "cli",
     "static-site"
-  ]
+  ],
+  "main": "index.js",
+  "bin": {
+    "tonka": "./bin/tonka"
+  },
 }
