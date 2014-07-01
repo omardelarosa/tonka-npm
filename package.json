@@ -1,0 +1,15 @@
+{
+  "name": "tonka",
+  "description": "A CLI with various static web building utilities.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Omar Delarosa <thedelarosa@gmail.com>"
+  },
+  "license": "MIT",
+  "keywords": [
+    "html",
+    "css",
+    "cli",
+    "static-site"
+  ]
+}
